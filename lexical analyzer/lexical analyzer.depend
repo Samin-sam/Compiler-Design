@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612200060 source:g:\samin\app files\mingw cg\lexical analyzer\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
